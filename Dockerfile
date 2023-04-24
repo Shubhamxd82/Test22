@@ -1,6 +1,6 @@
 FROM python:3.10
 
-WORKDIR /Shubhamxd82
+WORKDIR /Test22
 
 COPY requirements.txt ./
 
